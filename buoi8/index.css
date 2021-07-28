@@ -1,0 +1,58 @@
+h1 {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+h2 {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.Hinh {
+    width: 250px;
+    border-radius: 100%;
+}
+.Banhcanh {
+    border-style:solid;
+    background-color:blanchedalmond;
+    width: 300px;
+    height: 210px;
+}
+.BunRieu {
+    border-style:solid;
+    background-color: chocolate;
+    width: 300px;
+}
+.Che {
+    border-style:solid;
+    background-color: aqua;
+    width: 300px;
+    height: 210px;
+}
+.BunBo {
+    border-style:solid;
+    background-color: crimson;
+    width: 300px;
+    height: 210px;
+}
+a:hover {
+    background-color: gainsboro;
+}
+hr {
+    border-style: none;
+    border-top: dotted;
+    border-color: black;
+    border-width: 5px;
+    width: 5%;
+}
+.Banhcanh:hover {
+    background-color: coral;
+}
+.BunRieu:hover {
+    background-color: yellow;
+}
+.Che:hover {
+    background-color: lime;
+}
+.BunBo:hover {
+    background-color: orange;
+}
+body {
+    background-color:palegreen;
+}
