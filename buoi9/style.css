@@ -1,0 +1,23 @@
+.div1 {
+    border-style: dotted;
+    border-color: blue;
+}
+.div2 {
+    border-style:ridge;
+    border-color: red;
+}
+.div3{
+    border-color: chartreuse;
+    border-style:groove;
+    height: 200px;
+}
+img {
+    width: 200px;
+    border-radius: 100%;
+}
+h1{
+    font-family:monospace;
+}
+h3{
+    font-family:cursive;
+}
