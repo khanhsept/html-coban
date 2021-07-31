@@ -1,0 +1,28 @@
+.div1 {
+    background-color: aqua;
+    border-style: dotted;
+    width: 200px;
+    height: 200px;
+    border-width: 10px;
+    padding: 20px;
+}
+.div2 {
+    background-color: greenyellow;
+    border-style: double;
+    width: 200px;
+    height: 200px;
+    border-width: 20px;
+    margin-left: 260px;
+}
+.div3 {
+    background-color: khaki;
+    border-style: solid;
+    width: 200px;
+    height: 200px;
+    border-width: 10px;
+    margin-left: 500px;
+}
+p {
+    text-align: center;
+    font-size: 50px;
+}
