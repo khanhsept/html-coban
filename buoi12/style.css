@@ -1,0 +1,52 @@
+body {
+   background-color: #191970;
+}
+h1 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: ivory;
+    text-align: center;
+}
+.input1 {
+    margin-left: 50px;
+    border-radius: 6px;
+    width: 200px;
+    height: 20px;
+    padding:5px 8px;
+}
+.input2 {
+    margin-left: 87px;
+    border-radius: 6px;
+    width: 200px;
+    height: 20px;
+    padding:5px 8px;
+}
+
+.label1 {
+    color: ivory;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.label2 {
+    color: ivory;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+img {
+    width: 290px;
+    height: 290px;
+}
+.meoimg {
+    width: 350px;
+    height: 350px;
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+}
+.khanh {
+    position: absolute;
+    margin-left: 570px;
+}
+button {
+    margin-left: 280px;
+    left: 200px;
+    width: 100px;
+    height: 20px;
+}
